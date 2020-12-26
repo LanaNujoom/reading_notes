@@ -7,4 +7,5 @@
  ***I will be sharing my reading notes for code 201 course in this website.***
  
  **My Reading Notes:**
- -
+ 
+ - [ Read 01 ]( https://lananujoom.github.io/reading_notes/read01)
