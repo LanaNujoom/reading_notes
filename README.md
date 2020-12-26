@@ -8,4 +8,4 @@
  
  **My Reading Notes:**
  
- - [ Read 01 ]( https://lananujoom.github.io/reading_notes/read01)
+1. [ Read 01 ]( https://lananujoom.github.io/reading_notes/read01)
