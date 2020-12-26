@@ -6,7 +6,7 @@
 # HTML
 
 
-![HTML](https://th.bing.com/th/id/OIP.2gSXs_H04c_2b9r3q7oE6AHaE5?pid=Api&rs=1)
+![HTML](https://chouprojects.com/wp-content/uploads/2014/12/html.png)
 
 ### How the Web Works ?
 
@@ -16,6 +16,8 @@
 4. The web server then sends the page you requested back to your web browser.
 
 ## Structure :
+
+![HTML](https://th.bing.com/th/id/OIP.2gSXs_H04c_2b9r3q7oE6AHaE5?pid=Api&rs=1)
 
 HTML Describes the Structure of Pages
 
