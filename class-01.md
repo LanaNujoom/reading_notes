@@ -6,7 +6,8 @@
 # HTML
 
 
-![HTML](https://chouprojects.com/wp-content/uploads/2014/12/html.png)
+![HTML](![HTML]https://www.cdn.geeksforgeeks.org/wp-content/uploads/html.png)
+)
 
 ### How the Web Works ?
 
