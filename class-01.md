@@ -2,6 +2,9 @@
 
 *In this page I will summarize what I have learned in HTML & JavaScripts.*
 
+
+# HTML
+
 ### How the Web Works ?
 
 1. When you connect to the web, you do so via an Internet Service Provider (ISP).
@@ -50,13 +53,21 @@ HTML pages are text documents.
 
 ### HTML 5 Layout:
 
-### What ?
+## What ?
 
 The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
 
-### How ?
+## How ?
 
 To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+
+### Process & Design :
+
+- It's important to understand who your target audience is.
+
+- Site maps allow you to plan the structure of a site.
+
+-Design is about communication. 
 
 
 
