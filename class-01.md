@@ -16,7 +16,7 @@
 
 HTML Describes the Structure of Pages
 
-<h1>This is the Main Heading</h1> ... h1 is used for the main heading 
+ h1 is used for the main heading 
 
 h2 is used for the sub heading and so on ... h3 , h4....h6
 
@@ -68,6 +68,28 @@ To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), e
 - Site maps allow you to plan the structure of a site.
 
 -Design is about communication. 
+
+
+# Javascript :
+
+## What is a Script ?
+
+A script is a series of instructions that the computer can follow in order to achieve a goal.
+
+## How ? 
+
+To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task.
+
+- It is best to keep JavaScript code in its own JavaScript file.
+
+-  JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension. 
+
+- The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file 
+ 
+ -Web browsers use HTML markup to create a model of the web page. Each element creates its own node (which is a kind of object).
+ 
+ - To make web pages interactive, you write code that uses the browser's model of the web page.
+
 
 
 
