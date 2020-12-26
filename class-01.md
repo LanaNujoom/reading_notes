@@ -78,7 +78,7 @@ To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), e
 # Javascript :
 
 
-![JavaScripts](https://www.bing.com/images/search?view=detailV2&ccid=zWhOGf%2fP&id=3481029E00943FBF8EF36D1297D5CBCB742241B6&thid=OIP.zWhOGf_PgX0nRTLZLmFpGgHaEK&mediaurl=https%3a%2f%2fwww.computerfever.com%2fwp-content%2fuploads%2f2016%2f04%2fjavascript-featured.png&exph=879&expw=1563&q=JavaScript+&simid=608003662627671527&ck=C501657FC92D1BEA9C80FD3530DBF3BC&selectedIndex=15&FORM=IRPRST&ajaxhist=0)
+![JavaScripts](https://th.bing.com/th/id/OIP.yhDR04K5fbaotk0AarlUjgHaEJ?pid=Api&rs=1)
 
 
 ## What is a Script ?
