@@ -8,7 +8,7 @@
  
  **My Reading Notes:**
  
-1. [ Read 01 ]( https://lananujoom.github.io/reading_notes/read01)
+1. [ Class 01 ]( https://lananujoom.github.io/reading_notes/class-01)
 2. [ Read 02 ]( https://lananujoom.github.io/reading_notes/read02)
 3. [ Read 03 ]( https://lananujoom.github.io/reading_notes/read03)
 4. [ Read 04 ]( https://lananujoom.github.io/reading_notes/read04)
