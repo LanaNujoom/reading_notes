@@ -10,7 +10,7 @@
 
 ![img](https://i.ytimg.com/vi/1CoBHqSErzg/maxresdefault.jpg)
 
-HTML has six "levels" of headings:H1 - H2 - H3 - H4 - H5 - H6
+HTML has six *levels* of headings:H1 - H2 - H3 - H4 - H5 - H6
 
 ***The H1 is the Main Heading***
 
@@ -22,7 +22,7 @@ HTML has six "levels" of headings:H1 - H2 - H3 - H4 - H5 - H6
 
 - **b** tag is used for bold
 
--**i** tag is used for italics
+- **i** tag is used for italics
 
 ### Superscript & Subscript
 
@@ -48,11 +48,11 @@ If it comes across a line break, it treats that as a single space too. ***White 
 
 **strong** tag  indicates that its content has strong importance. 
 
-the contents of a  strong element in bold
+- the contents of a  strong element in bold
 
-**em** emphasis that subtly changes the meaning of a sentence.
+- **em** emphasis that subtly changes the meaning of a sentence.
 
-the contents of an em element in italic.
+- the contents of an em element in italic.
 
 # CSS
 
