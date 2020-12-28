@@ -8,7 +8,7 @@
 
 ### Lists
 
-#### Ordered List
+- Ordered List
 
   *we use the element ol*
 
@@ -16,22 +16,22 @@
 
 *we use the element ul*
 
-#### Definition Lists
+- Definition Lists
 
 *we use dl element*
 
 Inside the dl element we use pairs of dt and dd elements.
 
-- dt  contain the termbeing defined (the definition term).
+1. dt  contain the termbeing defined (the definition term).
 
-- dd This is used to contain the definition.
+2. dd This is used to contain the definition.
 
 
 ![img](https://i.stack.imgur.com/4IL5O.jpg)
 
 ### Boxes
 
-#### Box Dimensions 
+- Box Dimensions 
 
 div.box {
 height: 300px;
@@ -52,7 +52,7 @@ border-color: #0088dd;}
 
 ![img](https://i.ytimg.com/vi/a-P0Hg0kWLU/maxresdefault.jpg)
 
-#### Shorthand Border 
+- Shorthand Border 
 
 specify the width, style and color of a border in one property
 
@@ -76,15 +76,15 @@ text-align: left;}
 
 ***It is possible to hide elements using the display and visibility properties.***
 
-#### Change Inline/Block
+- Change Inline/Block
 
 display
 
-- inline 
+1. inline 
 
 block-level element to act like an inline element.
 
-- block 
+2. block 
 
 This causes an inline element to act like a block-level element.
 
@@ -112,7 +112,7 @@ colors ['white', 'black', ' custom'];
 
 ### Decisions & Loops
 
-#### If & If else Statement
+- If & If else Statement
 
 
 ![img](https://www.kirupa.com/html5/images/if_else_72.png)
@@ -129,19 +129,19 @@ colors ['white', 'black', ' custom'];
 We have a default option that is run if none of the cases match.
 
 
-####  for Loop
+-  for Loop
 
 ![img](https://www.journaldev.com/wp-content/uploads/2017/10/java-for-loop.png)
 
 for loop uses counter as a condition 
 
-- initialization
+1. initialization
 
-- condition
+2. condition
 
-- update
+3. update
 
-#### while loop
+- while loop
 
 
 ![img](https://www.sqlshack.com/wp-content/uploads/2019/10/flow-chart-of-the-sql-while-loop.png)
