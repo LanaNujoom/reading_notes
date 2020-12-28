@@ -151,4 +151,4 @@ for loop uses counter as a condition
 The key difference between a whi e loop and a do whi1e loop is that the statements in the code block come before the condition.
 
 
- ***This means that those statements are run once whether or not the condition is met. ***
+ ***This means that those statements are run once whether or not the condition is met.***
