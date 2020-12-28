@@ -10,7 +10,7 @@
 
 1. Ordered List
 
-*we use the element ol*
+  *we use the element ol*
 
 2. Unordered List
 
