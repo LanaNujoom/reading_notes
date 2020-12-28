@@ -8,15 +8,15 @@
 
 ### Lists
 
-1. Ordered List
+#### Ordered List
 
   *we use the element ol*
 
-2. Unordered List
+#### Unordered List
 
 *we use the element ul*
 
-3. Definition Lists
+#### Definition Lists
 
 *we use dl element*
 
@@ -31,28 +31,28 @@ Inside the dl element we use pairs of dt and dd elements.
 
 ### Boxes
 
-1. Box Dimensions 
+#### Box Dimensions 
 
 div.box {
 height: 300px;
 width: 300px;
 }
 
-2. Border Style
+#### Border Style
 
 p.three {border-style: dashed;}
 
 
 ![img](https://s3.amazonaws.com/webucator-how-tos/2304.png)
 
-3. Border Color
+#### Border Color
 
 p.one {
 border-color: #0088dd;}
 
 ![img](https://i.ytimg.com/vi/a-P0Hg0kWLU/maxresdefault.jpg)
 
-3. Shorthand Border 
+#### Shorthand Border 
 
 specify the width, style and color of a border in one property
 
@@ -60,11 +60,11 @@ p {
 width: 250px;
 border: 3px dotted #0088dd;}
 
-4. Margin
+#### Margin
 p.example {
 margin: 20px;}
 
-5. Centering Content 
+#### Centering Content 
 
 We use text-align   
 
@@ -76,7 +76,7 @@ text-align: left;}
 
 ***It is possible to hide elements using the display and visibility properties.***
 
-6. Change Inline/Block
+#### Change Inline/Block
 
 display
 
@@ -112,7 +112,7 @@ colors ['white', 'black', ' custom'];
 
 ### Decisions & Loops
 
-1. If & If else Statement
+#### If & If else Statement
 
 
 ![img](https://www.kirupa.com/html5/images/if_else_72.png)
