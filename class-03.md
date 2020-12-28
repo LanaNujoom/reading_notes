@@ -31,7 +31,7 @@ Inside the dl element we use pairs of dt and dd elements.
 
 ### Boxes
 
-- Box Dimensions 
+#### Box Dimensions 
 
 div.box {
 height: 300px;
@@ -52,7 +52,7 @@ border-color: #0088dd;}
 
 ![img](https://i.ytimg.com/vi/a-P0Hg0kWLU/maxresdefault.jpg)
 
-- Shorthand Border 
+#### Shorthand Border 
 
 specify the width, style and color of a border in one property
 
@@ -76,15 +76,15 @@ text-align: left;}
 
 ***It is possible to hide elements using the display and visibility properties.***
 
-- Change Inline/Block
+#### Change Inline/Block
 
 display
 
-1. inline 
+- inline 
 
 block-level element to act like an inline element.
 
-2. block 
+- block 
 
 This causes an inline element to act like a block-level element.
 
@@ -112,7 +112,7 @@ colors ['white', 'black', ' custom'];
 
 ### Decisions & Loops
 
-- If & If else Statement
+#### If & If else Statement
 
 
 ![img](https://www.kirupa.com/html5/images/if_else_72.png)
@@ -122,14 +122,14 @@ colors ['white', 'black', ' custom'];
 - one set if the condition evaluates to true
 - another set if the condition is false 
 
-1. Switch Statement
+#### Switch Statement
 
 ![img](https://codeforwin.org/wp-content/uploads/2017/08/switch-statement-flowchart.png)
 
 We have a default option that is run if none of the cases match.
 
 
--  for Loop
+#### for Loop
 
 ![img](https://www.journaldev.com/wp-content/uploads/2017/10/java-for-loop.png)
 
@@ -141,7 +141,7 @@ for loop uses counter as a condition
 
 3. update
 
-- while loop
+#### while loop
 
 
 ![img](https://www.sqlshack.com/wp-content/uploads/2019/10/flow-chart-of-the-sql-while-loop.png)
