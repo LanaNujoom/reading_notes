@@ -99,7 +99,7 @@ framework code in your projects rather than writing the CSS from scratch.
 
 
 
-# JAvaScripts
+# JavaScripts
 
 ## Functions
 
