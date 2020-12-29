@@ -131,7 +131,7 @@ var volumeOne = getSize (3, 2, 3)[1];
 
 
 
-## PAir Programming
+## Pair Programming
 
 ***Driver and the Navigator***
 
