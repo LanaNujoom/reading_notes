@@ -37,7 +37,7 @@ around the image *
 
  how the other parts of a page should flow around an image
  
- ![HTML](/k.png)
+ ![img](/k.png)
 
  
  
