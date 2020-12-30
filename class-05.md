@@ -20,7 +20,7 @@
 img element use two other attributes
 that specify its size 
 
-*Block elements always appear on a new line.*
+**Block elements always appear on a new line.**
 
 *Inline elements sit within a
 block level element and do not
