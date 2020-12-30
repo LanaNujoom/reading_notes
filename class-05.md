@@ -67,38 +67,37 @@ logos that use flat colors are better saved as GIFs***
  ## Text
  
 
-
-***font-family***
+### font-family
 
 allows you to specify the
 typeface 
 
-***font-size***
+### font-size
 
 
 Pixels are commonly used
 
-***@font-face***
+### @font-face
 
  allows you to use
 a font, even if it is not installed
 on the computer 
 
-***font-weight***
+### font-weight
 
  to create bold text. 
  
 ***font-style***
 create italic text
 
-***text-transform***
+### text-transform
 
 1. uppercase
 2. lowercase
 3. capitalize
 
 
-***text-decoration***
+### text-decoration
 
 1. none
 2. underline
@@ -106,14 +105,14 @@ create italic text
 4.line-through
 5.blink
 
-***text-align***
+### text-align
 
 1. left
 2. right
 3. center
 4. justify
 
-***vertical-align***
+### vertical-align
 
 1.baseline
 2.sub
