@@ -38,7 +38,7 @@ around the image***
  - Left
  - Right
  
- ![img](/k.png)
+ ![img](k.png)
  
  ### Aligning Images Vertically
  
@@ -48,7 +48,7 @@ around the image***
   
  - Bottom
   
- ![img](/k.png)
+ ![img](k.png)
  
  ***Photographs are best saved as JPEGs; illustrations or
 logos that use flat colors are better saved as GIFs***
