@@ -20,16 +20,16 @@
 img element use two other attributes
 that specify its size 
 
-**Block elements always appear on a new line.**
+- Block elements **always appear on a new line.**
 
-*Inline elements sit within a
+- Inline elements **sit within a
 block level element and do not
-start on a new line.*
+start on a new line.**
 
-*If the <img> element is inside a
+***If the img element is inside a
 block level element, any text or
 other inline elements will flow
-around the image*
+around the image***
 
 ### Aligning Images Horizontally
 
