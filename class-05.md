@@ -46,7 +46,7 @@ around the image*
  
  - Middle 
   
-  -Bottom
+ - Bottom
   
  ![img](/k.png)
  
@@ -57,9 +57,9 @@ logos that use flat colors are better saved as GIFs***
 
 **There are three ways to specify colors in CSS:**
 
-1- RGB values
-2- hex codes
-3- color names
+1. RGB values
+2. hex codes
+3. color names
 
  ![img](https://tutorial.techaltum.com/images/css-colors.jpg)
 
