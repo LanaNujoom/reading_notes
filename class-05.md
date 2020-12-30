@@ -62,6 +62,78 @@ logos that use flat colors are better saved as GIFs***
 3. color names
 
  ![img](https://tutorial.techaltum.com/images/css-colors.jpg)
+ 
+ 
+ ## Text
+ 
+
+
+***font-family***
+
+allows you to specify the
+typeface 
+
+***font-size***
+
+
+Pixels are commonly used
+
+***@font-face***
+
+ allows you to use
+a font, even if it is not installed
+on the computer 
+
+***font-weight***
+
+ to create bold text. 
+ 
+***font-style***
+create italic text
+
+***text-transform***
+
+1. uppercase
+2. lowercase
+3. capitalize
+
+
+***text-decoration***
+
+1. none
+2. underline
+3.overline
+4.line-through
+5.blink
+
+***text-align***
+
+1. left
+2. right
+3. center
+4. justify
+
+***vertical-align***
+
+1.baseline
+2.sub
+3.super
+4.top
+5.text-top
+6.middle
+7.bottom
+8.text-bottom
+
+Styling Links
+
+
+
+
+
+
+
+
+
 
 
 
