@@ -11,9 +11,9 @@
 ![HTML](https://www.shellblack.com/SFDC/wp-content/uploads/2010/07/Adding-Image-Tag-to-HTML-Email_XXXX.png)
 
 
--**src : tells the browser where it can find the image file**
+- src : **tells the browser where it can find the image file**
 
--**alt : This provides a text description of the image which describes the image if you cannot see it.**
+- alt :** This provides a text description of the image which describes the image if you cannot see it.**
 
 ### Height & Width of Images:
 
