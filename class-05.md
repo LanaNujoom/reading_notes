@@ -115,12 +115,19 @@ create italic text
 ### vertical-align
 
 1.baseline
+
 2.sub
+
 3.super
+
 4.top
+
 5.text-top
+
 6.middle
+
 7.bottom
+
 8.text-bottom
 
 
