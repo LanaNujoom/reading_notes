@@ -37,7 +37,39 @@ around the image *
 
  how the other parts of a page should flow around an image
  
+ - Left
+ - Right
+ 
  ![img](/k.png)
+ 
+ ### Aligning Images Vertically
+ 
+ - Top
+ 
+ - Middle 
+  
+  -Bottom
+  
+ ![img](/k.png)
+ 
+ ***Photographs are best saved as JPEGs; illustrations or
+logos that use flat colors are better saved as GIFs***
+
+## Colors
+
+**There are three ways to specify colors in CSS:**
+
+1- RGB values
+2- hex codes
+3- color names
+
+ ![img](https://tutorial.techaltum.com/images/css-colors.jpg)
+
+
+
+
+
 
  
  
+
