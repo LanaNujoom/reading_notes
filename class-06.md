@@ -34,8 +34,8 @@
        - access properties and methods using dot notation
        
 
-       ![HTML](https://www.shellblack.com/SFDC/wp-content/uploads/2010/07/Adding-Image-Tag-to-HTML-Email_XXXX.png)
-       ![img](https://content.codecademy.com/courses/learn-javascript-objects/object%20dot%20notation.svg)
+    
+      ![img](https://content.codecademy.com/courses/learn-javascript-objects/object%20dot%20notation.svg)
        
        
 ## Document Object Model
@@ -52,7 +52,7 @@
 
 
 
-       ![img](https://www.w3schools.com/js/pic_htmltree.gif)
+     ![img](https://www.w3schools.com/js/pic_htmltree.gif)
 
 
 ***select element nodes by***
