@@ -1,5 +1,5 @@
-# Class 05
-*In this page I will summarize what I have learned in HTML & JavaScripts - class 05.*
+# Class 06
+*In this page I will summarize what I have learned in  JavaScripts - class 06.*
 
 ## Understanding The Problem Domain
 
