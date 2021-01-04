@@ -56,7 +56,7 @@ object; functions are known as methods of the object***
 
 - Number
 
--Math
+- Math
 
 - Date
 
