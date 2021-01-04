@@ -38,3 +38,25 @@
     
     
  ***In long tables  split the table into a thead,tbody, and tfoot***
+
+
+## Functions, Methods, and Objects
+
+*Functions allow you to group a set of related
+statements together*
+
+![img](https://www.geeksread.com/wp-content/uploads/2018/04/Javascript-Lesson-26-How-to-Add-Methods-to-an-Objects-In-Javascript_SS3.jpg)
+
+***In an object, variables are known as properties of the
+object; functions are known as methods of the object***
+
+###  JavaScript's several built-in objects:
+
+- String
+
+- Number
+
+-Math
+
+- Date
+
