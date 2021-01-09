@@ -29,3 +29,22 @@ Bugs appear at different times:
 
 
 
+![img](https://www.oreilly.com/library/view/vbscript-in-a/1565927206/tagoreillycom20070305oreillyimages152865.png)
+
+### Logical errors
+
+1. Logical errors that affect program results
+
+2. Logical errors that generate error messages
+
+### The Microsoft Script Debugger
+
+When  running a WSH script, you can launch the debugger if an error occurs by supplying the //D switch; or you can run a script in the context of the debugger by supplying the //X switch
+
+
+
+
+![img](https://www.oreilly.com/library/view/vbscript-in-a/1565927206/tagoreillycom20070305oreillyimages152873.png)
+
+
+
