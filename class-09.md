@@ -143,7 +143,7 @@ styles.
   
  ![img](https://www.w3.org/wiki/images/0/02/Csslist2_table-collapse.png)
 
-  # Events:
+  #Events:
   
   *JavaScript's interaction with HTML is handled through events that occur when the user or the browser manipulates a page*
   
