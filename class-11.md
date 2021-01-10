@@ -36,6 +36,8 @@ repeated,  use the
 background-position
 property
 
+![img](https://i.stack.imgur.com/ge3j4.png)
+
 1. left top
 2. left center
 3. left bottom
