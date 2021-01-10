@@ -63,6 +63,8 @@ the top of search engine results.
 6. Image Alt Text
 7. Page Descriptions
 
+![img](https://www.webdesignbyronbay.com/wp-content/uploads/2016/07/on-site-off-site-seo.png)
+
 ### How to Identify
 Keywords and Phrases :
 
