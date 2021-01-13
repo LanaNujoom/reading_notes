@@ -60,13 +60,13 @@ with a non-existent key will  return null rather than throw an exception.
 *PROPERTIES*
 
 
-key / string/ the named key that was added, removed, or modified
+- key / string/ the named key that was added, removed, or modified
 
 
-oldValu / any	/ the previous value (now overwritten), or null if a new item was added
+- oldValu / any	/ the previous value (now overwritten), or null if a new item was added
 
-url*	/ string /	the page which called a method that triggered this change
+- url*	/ string /	the page which called a method that triggered this change
 
-newValue/any	/the new value, or null if an item was removed
+- newValue/any/the new value, or null if an item was removed
 
 
