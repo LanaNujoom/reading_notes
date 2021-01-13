@@ -45,7 +45,7 @@ with a non-existent key will  return null rather than throw an exception.
      };
 
 
-![img](https://ictacademy.com.ng/wp-content/uploads/2017/10/HTML-Table-Structure.png)
+![img](https://javabeat.net/wp-content/uploads/2013/10/html5-localStorage.png)
        
 
      
@@ -68,8 +68,5 @@ oldValu / any	/ the previous value (now overwritten), or null if a new item was 
 url*	/ string /	the page which called a method that triggered this change
 
 newValue/any	/the new value, or null if an item was removed
-
-
-![img](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/51/31/metablogapi/7380.app_data_local_1D78DFC1.jpg)
 
 
