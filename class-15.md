@@ -12,7 +12,7 @@ When the group met, teammates sometimes jockeyed for the leadership position or 
 - Trying to enhance her skills :
 So Rozovsky started looking for other groups she could join. A classmate mentioned that some students were putting together teams for ‘‘case competitions,’’
 
-- Getting Imterested :
+- Getting Interested :
 
 1. They emailed one another dumb jokes and usually spent the first 10 minutes of each meeting chatting. When it came time to brainstorm, ‘‘we had lots of crazy ideas,’’ Rozovsky said.
 
