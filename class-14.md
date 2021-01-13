@@ -42,7 +42,7 @@ Two-dimensional transforms work on the x and y axes
 
 
 
-3.  Grow & Shrink
+3. Grow & Shrink
 
 
 use CSS3’s transform to enlarge.
@@ -57,7 +57,7 @@ use CSS3’s transform to enlarge.
         }
         
         
-    5.Square to circle
+5. Square to circle
     
           .circle:hover
        {
@@ -66,13 +66,13 @@ use CSS3’s transform to enlarge.
            
            
            
-      6. 3D shadow
+6.  3D shadow
       
       **adding a box shadow, and then moving the element on the x axis using the transform and translate properties**
       
-      7. Swing
+ 7.  Swing
       
       **animation simply moves the element left and right**
       
-      8.  Inset border
+ 8.  Inset border
 
