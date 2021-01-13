@@ -126,17 +126,6 @@ Sets the style for shapes' outlines.
 
 
 
-### On-Page SEO
-
-1.  Page Title
-2. URL / Web Address
-3. Headings
-4. Text
-5. Link Text
-6. Image Alt Text
-7. Page Descriptions
-
-![img](https://www.webdesignbyronbay.com/wp-content/uploads/2016/07/on-site-off-site-seo.png)
 
 ### Drawing Test:
 
