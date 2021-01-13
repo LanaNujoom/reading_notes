@@ -44,3 +44,35 @@ Two-dimensional transforms work on the x and y axes
 
 3.  Grow & Shrink
 
+
+use CSS3’s transform to enlarge.
+
+4. Rotate elements
+
+       .rotate:hover
+       {
+          -webkit-transform: rotateZ(-30deg);
+           -ms-transform: rotateZ(-30deg);
+            transform: rotateZ(-30deg);
+        }
+        
+        
+    5.Square to circle
+    
+          .circle:hover
+       {
+          border-radius:50%;
+           }
+           
+           
+           
+      6. 3D shadow
+      
+      **adding a box shadow, and then moving the element on the x axis using the transform and translate properties**
+      
+      7. Swing
+      
+      **animation simply moves the element left and right**
+      
+      8.  Inset border
+
