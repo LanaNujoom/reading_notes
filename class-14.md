@@ -28,11 +28,11 @@ Two-dimensional transforms work on the x and y axes
 
 ### CSS3 TRANSITIONS
 
-1. Fade in
+- Fade in
 
 ![img](https://th.bing.com/th/id/OIP.540FC_QTp3EUyQhkpbX3MAHaEo?pid=Api&rs=1)
 
-2.  Change color
+- Change color
 
          .color:hover
         {
@@ -42,12 +42,12 @@ Two-dimensional transforms work on the x and y axes
 
 
 
-3. Grow & Shrink
+- Grow & Shrink
 
 
 use CSS3’s transform to enlarge.
 
-4. Rotate elements
+- Rotate elements
 
        .rotate:hover
        {
@@ -57,7 +57,7 @@ use CSS3’s transform to enlarge.
         }
         
         
-5. Square to circle
+- Square to circle
     
           .circle:hover
        {
@@ -66,13 +66,13 @@ use CSS3’s transform to enlarge.
            
            
            
-6.  3D shadow
+- 3D shadow
       
       **adding a box shadow, and then moving the element on the x axis using the transform and translate properties**
       
- 7.  Swing
+-  Swing
       
       **animation simply moves the element left and right**
       
- 8.  Inset border
+-  Inset border
 
