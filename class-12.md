@@ -91,28 +91,40 @@
 ### Lines :
 
     lineTo() method.
+    
+ The starting point can also be changed by using the moveTo() method.
 
-When an image is not being
-repeated,  use the
-background-position
-property
+### Colors :
 
-![img](https://i.stack.imgur.com/ge3j4.png)
+***fillStyle = color***
+Sets the style used when filling shapes.
+***strokeStyle = color***
+Sets the style for shapes' outlines.
 
-1. left top
-2. left center
-3. left bottom
-4. center top
-5. center center
-6. center bottom
-7. right top
-8. right center
-9. right bottom
+### Transparency :
 
-### Search engine optimization (SEO)
+**setting the globalAlpha property or by assigning a semi-transparent color to the stroke and/or fill style.**
 
-nearesr try for the users to find results  nearer
-the top of search engine results.
+
+### Line styles:
+
+*properties :*
+
+1. lineWidth = value / width of lines drawn in the future.
+
+2. lineCap = type / appearance of the ends of lines.
+
+3. lineJoin = type / appearance of the "corners" where lines meet.
+
+4. miterLimit = value / limit on the miter when two lines join at a sharp angle.
+
+5. getLineDash() / Returns the current line dash pattern array containing an even number of non-negative numbers.
+
+6. setLineDash(segments) / current line dash pattern.
+
+7. lineDashOffset = value /  start a dash array on a line.
+
+
 
 ### On-Page SEO
 
@@ -126,16 +138,12 @@ the top of search engine results.
 
 ![img](https://www.webdesignbyronbay.com/wp-content/uploads/2016/07/on-site-off-site-seo.png)
 
-### How to Identify
-Keywords and Phrases :
+### Drawing Test:
 
-1. Brainstorm
-2. Organize
-3. Research
-4.  Compare
-5. Refine
-6. Map
-
-
-
-![img](https://moz.imgix.net/learn/guides/Mozlows-01-outline.svg?auto=format&ch=Width&fit=max&q=50&s=
+    fillText(text, x, y [, maxWidth])
+    
+   Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
+   
+    strokeText(text, x, y [, maxWidth])
+    
+   strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
